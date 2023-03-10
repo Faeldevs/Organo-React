@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project developed by Alura
+
+## Preview
+
+![pre vizualização](https://user-images.githubusercontent.com/103973828/224348983-19f9282f-09d5-4d42-8969-b53e05652d2d.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
